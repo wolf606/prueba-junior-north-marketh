@@ -4,6 +4,12 @@
 
 Este repositorio contiene la solución a tres ejercicios propuestos para la prueba de ingreso al cargo de Desarrollador Junior en North Marketh. Cada ejercicio aborda un nivel diferente de dificultad y utiliza distintas herramientas del ecosistema Python.
 
+## 1. Scrapping Instagram
+
+La API de Instagram le pone marcas a las cuentas y las bloquea si detecta scrapping. Tambien le pone marcas a los numeros de telefono y emails de las cuentas usadas al hacer scrapping. Las cuenatas del ejercicio contienen demasiados seguidores para hacer scrapping.
+
+[Link Text](https://youtu.be/g5U48-J6Ugg)
+
 ---
 
 ## 1. Ejercicio básico de Python (Nivel Principiante)
