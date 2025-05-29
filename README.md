@@ -8,7 +8,7 @@ Este repositorio contiene la solución a tres ejercicios propuestos para la prue
 
 La API de Instagram le pone marcas a las cuentas y las bloquea si detecta scrapping. Tambien le pone marcas a los numeros de telefono y emails de las cuentas usadas al hacer scrapping. Las cuenatas del ejercicio contienen demasiados seguidores para hacer scrapping.
 
-[Link Text](https://youtu.be/g5U48-J6Ugg)
+[Video demostrativo](https://youtu.be/g5U48-J6Ugg)
 
 ---
 
